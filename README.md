@@ -15,4 +15,6 @@ Features : Accepts Phone number and it will display all the suggestions.
     if the records are more than 5 pages, then it will show >> symbol to get next five pages( if we have the data). Otherwise     it will display page numbers dynamically depending upon the records.
     
  Backend Repo : https://github.com/pavankomandur/Phone
+ 
+ 7. phone_validation_demo.docx is added in which i have posted screen shots of the application and its usage (for ur reference)
     
