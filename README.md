@@ -1,6 +1,6 @@
 # PhoneValidation
 
-This is Phone Validation App which Validates phone number
+This is Phone Validation App which Validates phone number and displays suggestions.
 
 Tech Stack : Angular.
 
